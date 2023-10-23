@@ -1,6 +1,6 @@
-# ccwc - Command-Line File Operations
+# ccwc - FileFlow
 
-ccwc is a command-line utility for counting bytes, lines, and words in text files.
+FileFlow is a command-line utility for counting bytes, lines, and words in text files.
 
 ## Getting Started
 
